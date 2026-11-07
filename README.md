@@ -244,18 +244,18 @@ Adiciona aqui imagens da aplicação para demonstrar o seu funcionamento.
 
 #### Página principal
 
-![Página principal do CareerMatch AI](<img width="1842" height="856" alt="image" src="https://github.com/user-attachments/assets/4c860a0a-c0d7-40fc-a168-9afeb27f1308" />
-)
+<img width="1842" height="856" alt="image" src="https://github.com/user-attachments/assets/4c860a0a-c0d7-40fc-a168-9afeb27f1308" />
+
 
 #### Análise de compatibilidade
 
-![Resultados da análise de compatibilidade](<img width="1446" height="717" alt="image" src="https://github.com/user-attachments/assets/631dad6b-4723-4f04-9a7c-9514b4d8510c" />
-)
+<img width="1446" height="717" alt="image" src="https://github.com/user-attachments/assets/631dad6b-4723-4f04-9a7c-9514b4d8510c" />
+
 
 #### Currículo otimizado
 
-![Pré-visualização do currículo otimizado](<img width="1493" height="801" alt="image" src="https://github.com/user-attachments/assets/7bb26dfb-dd2e-4687-9b70-e7505badf937" />
-)
+<img width="1493" height="801" alt="image" src="https://github.com/user-attachments/assets/7bb26dfb-dd2e-4687-9b70-e7505badf937" />
+
 
 ---
 
